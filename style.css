@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(207, 240, 211);
+}
+#canvas1{
+    border: 3px solid #000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 600px;
+    width: 800px;
+    background-image: url('png/tropical-background.jpg');
+}
